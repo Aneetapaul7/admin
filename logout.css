@@ -1,0 +1,51 @@
+.container {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 100px;
+    text-align: center;
+}
+.logout-box {
+    background-color: #d9d8e0;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+h2 {
+    margin-bottom: 10px;
+   
+}
+
+p {
+    margin-bottom: 20px;
+    display: block;
+    font-size: 2em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end:0px;
+    font-weight: lighter;
+    unicode-bidi: isolate;
+
+
+}
+
+.button-group {
+    display: flex;
+    justify-content: center;
+}
+
+button {
+    background-color: #5e4caf;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin: 0 10px;
+}
+
+button:hover {
+    background-color: #e07070;
+}
+
+   
